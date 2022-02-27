@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Sample Frame Layout</string>
+    <string name="nim">NIM anda </string>
+    <string name="name">nama | kelas</string>
+</resources>
